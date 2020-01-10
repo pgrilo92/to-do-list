@@ -1,4 +1,4 @@
-let toDosArr = [{todo: 'Do this', done: false}]
+let toDosArr = []
 
 module.exports = {
     toDosArr
